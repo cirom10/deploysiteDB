@@ -1,5 +1,3 @@
-import MetaTrader5 as mt
-import pandas as pd
 from flask import Flask, render_template, request, redirect, url_for
 import sqlite3
 
